@@ -20,7 +20,7 @@ Google project services must be enabled before using this module. As a best prac
 
 - `example.googleapis.com`
 
-## <img align="left" width="35" height="35" src="https://github.com/osinfra-io/github-organization-management/assets/1610100/39d6ae3b-ccc2-42db-92f1-276a5bc54e65"> Development
+## <img align="left" width="35" height="35" src="https://github.com/user-attachments/assets/eb98a3be-2ffe-4c05-91a4-072fe795a167"> Development
 
 Our focus is on the core fundamental practice of platform engineering, Infrastructure as Code.
 
